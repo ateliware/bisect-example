@@ -6,4 +6,4 @@ def sum(a, b)
   end
 end
 
-puts sum(3, 2)
+puts sum(3, 5)
