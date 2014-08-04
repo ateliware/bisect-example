@@ -1,4 +1,4 @@
-# i give up!
+# this is stressing!
 
 def sum(a, b)
   if b == 3
