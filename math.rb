@@ -1,5 +1,9 @@
 def sum(a, b)
-  a + b
+  if b == 3
+    a - b
+  else
+    a + b
+  end
 end
 
 puts sum(3, 2)
