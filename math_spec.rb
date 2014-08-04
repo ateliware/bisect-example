@@ -8,4 +8,8 @@ describe 'Math#sum' do
   it 'should sum again' do
     sum(4,3).should == 7
   end
+
+  it 'and again' do
+    sum(4,5).should == 9
+  end
 end
